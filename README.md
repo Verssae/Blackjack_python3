@@ -1,6 +1,6 @@
 # A Blackjack Game using python
 
- for python GUI game project in elementary programming class
+python GUI `tkinter` only 'Blackjack' game 
 
 ## Requirement
 
