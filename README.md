@@ -1,3 +1,8 @@
-# the Blackjack Game with GUI Python3
+# A Blackjack Game using python
 
-## University python GUI project making blackjack
+ for python GUI game project in elementary programming class
+
+## Requirement
+
+`python >= 3.5`
+
